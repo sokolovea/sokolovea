@@ -1,5 +1,5 @@
 # My GitHub Stats
-
+# exclude JavaScript,Makefile,css,html,shell,cmake,jupyter notebook,qmake,Linker Script,dockerfile,gherkin
 <div align="center">
   <img src="https://raw.githubusercontent.com/sokolovea/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview dark"/>
   <img src="https://raw.githubusercontent.com/sokolovea/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages dark"/>
